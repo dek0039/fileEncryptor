@@ -18,6 +18,8 @@ Then we undo our mutation via our map.
 ![image](https://github.com/dek0039/fileEncryptor/assets/154227154/6d872150-33e8-49fe-93e5-5ceed6eb125e)
 # Output
 ![image](https://github.com/dek0039/fileEncryptor/assets/154227154/23130a69-4843-4fb9-9b89-7eeb93e30872)
+# Output(Ran again with same file)
+![image](https://github.com/dek0039/fileEncryptor/assets/154227154/eee63702-fb10-4102-b50b-e388ad7da5aa)
 
 
 
