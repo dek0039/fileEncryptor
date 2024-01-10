@@ -1,5 +1,5 @@
 # File-Encryptor
-A simple but solid plain text-based-file encryptor and decryptor written in C++ 20. 
+A simple but solid plain text-based-file encryptor(that generates a randomized result each time its ran) and decryptor written in C++ 20. 
 
 ## Usage
 ### Encrypting a File
@@ -18,8 +18,10 @@ Then we undo our mutation via our map.
 ![image](https://github.com/dek0039/fileEncryptor/assets/154227154/6d872150-33e8-49fe-93e5-5ceed6eb125e)
 # Output
 ![image](https://github.com/dek0039/fileEncryptor/assets/154227154/23130a69-4843-4fb9-9b89-7eeb93e30872)
-# Output(Ran again with same file)
+# Output(ran again with same file)
 ![image](https://github.com/dek0039/fileEncryptor/assets/154227154/584c41fe-97da-4d2f-8679-70c8a4b8a0f2)
+# CMD
+![image](https://github.com/dek0039/fileEncryptor/assets/154227154/ef7aa7ef-bc0d-4aa2-b3f7-8c9054339089)
 
 
 
