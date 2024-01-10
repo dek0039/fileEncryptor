@@ -14,6 +14,12 @@ Stage four copies and add's itself to itself. Basically doubling itself. In stag
 For decryption we first undo the reversing then the doubling. And then the magic starts where we XOR our strings first twelve(identifier string length) through 0 to 255 till it matches with our original identifier. When matched we store the key to XOR the rest of the file.
 Then we undo our mutation via our map.
 
+#Input
+![image](https://github.com/dek0039/fileEncryptor/assets/154227154/6d872150-33e8-49fe-93e5-5ceed6eb125e)
+#Output
+![image](https://github.com/dek0039/fileEncryptor/assets/154227154/23130a69-4843-4fb9-9b89-7eeb93e30872)
+
 
 
 Please don't use this.
+
